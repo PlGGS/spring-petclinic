@@ -16,9 +16,9 @@ Blake Boris 1919693
 - ![img.png](images/unsuccessfulBuild.png)
 - [5 pts] Your GitHub repository with the readme.md file selected showing the build failed status after the GitHub workflow fails.
 - ![img.png](images/workflowFailure.png)
-- [5 pts] 
-- 
-- [5 pts] 
-
-- [5 pts] 
-- 
+- [5 pts] The section of the POM file showing the coordinates after you’ve fixed them.
+- ![img.png](images/fixedCoordinates.png)
+- [5 pts] Your GitHub Actions dashboard showing the successful build after the breaking change has been fixed.
+- ![img.png](images/successfulBuildAfterFixedCoordinates.png)
+- [5 pts] Your GitHub repository with the readme.md file selected showing the build success status after the GitHub workflow has recovered.
+- ![img.png](images/buildSuccessAfterWorkflowRecovered.png)
