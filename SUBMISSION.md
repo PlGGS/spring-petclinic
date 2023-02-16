@@ -11,11 +11,11 @@ Blake Boris 1919693
 - [5 pts] Your GitHub repository with the readme.md file selected showing the build success status after you’ve updated the badge markdown.
 - ![img.png](images/badgePassing.png)
 - [5 pts] The section of the POM file showing the coordinates after you've commented them out.
-- 
-- [5 pts] 
-- 
-- [5 pts] 
-- 
+- ![img.png](images/commentedCoordinates.png)
+- [5 pts] Your GitHub Actions dashboard showing the unsuccessful build after the breaking changes.
+- ![img.png](images/unsuccessfulBuild.png)
+- [5 pts] Your GitHub repository with the readme.md file selected showing the build failed status after the GitHub workflow fails.
+- ![img.png](images/workflowFailure.png)
 - [5 pts] 
 - 
 - [5 pts] 
