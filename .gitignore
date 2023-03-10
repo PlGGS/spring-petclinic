@@ -14,3 +14,17 @@ target/*
 !.vscode/launch.json
 !.vscode/extensions.json
 _site/
+data.d/auto.cnf
+data.d/ca-key.pem
+data.d/ca.pem
+data.d/client-cert.pem
+data.d/client-key.pem
+data.d/ib_buffer_pool
+data.d/ib_logfile0
+data.d/ib_logfile1
+data.d/ibdata1
+data.d/mysql.sock
+data.d/private_key.pem
+data.d/public_key.pem
+data.d/server-cert.pem
+data.d/server-key.pem
